@@ -17,7 +17,7 @@ Window {
             y: 140
             anchors.verticalCenter: parent.verticalCenter
             anchors.left: parent.left
-            buttonColor: "#0000ff"
+            buttonColor: "orange"
             displayText: "Sender"
             anchors.leftMargin: 50
             target: receiver

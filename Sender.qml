@@ -18,6 +18,6 @@ Circle {
         }
 
         onPressed: parent.buttonColor = "green"
-        onReleased: parent.buttonColor = "blue"
+        onReleased: parent.buttonColor = "orange"
     }
 }
